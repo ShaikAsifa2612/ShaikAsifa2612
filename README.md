@@ -1,165 +1,129 @@
 
-<!-- ========== HEADER ========== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12002F,50:5B247A,100:8A2BE2&height=220&section=header&text=Hi%20There!%20I'm%20Asifa%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Graduate%20%7C%20Aspiring%20Software%20Developer&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:30105E,100:7C3AED&height=200&section=header&text=ASIFA&fontSize=65&fontColor=EDE9FE&fontAlignY=40&desc=Code%20%7C%20Learn%20%7C%20Build%20%7C%20Grow&descSize=18&descAlignY=65"/>
 
-<!-- ========== TYPING ANIMATION ========== -->
+### Computer Science Graduate | Aspiring Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Java+Developer+%F0%9F%92%BB;Python+%7C+Web+Development+Enthusiast;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Learning+Something+New+Every+Day+%F0%9F%9A%80" alt="Typing animation" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ShaikAsifa2612&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile views" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Java+%7C+Python+%7C+Web+Development;Exploring+AI+%26+Machine+Learning;Turning+ideas+into+reality+%F0%9F%92%9C" />
 
 </div>
 
 ---
 
-<!-- ========== ABOUT ME ========== -->
+## 👩🏻‍💻 About Me
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<img align="right" width="180" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
 
-<img align="right" alt="Coding girl" width="200" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+I'm a Computer Science Engineering graduate passionate about software development and problem-solving.
 
-- 🎓 Computer Science Engineering Graduate (2025)
-- 💻 Passionate about software development and problem-solving
-- 🌱 Currently exploring **Artificial Intelligence & Machine Learning**
-- 🔭 Interested in Java, Python, Web Development & SQL
-- 🚀 Love building projects and learning new technologies
-- 🎯 Aspiring to become a skilled software developer
-- 📫 Connect with me through the links below!
+- 🎓 B.Tech in Computer Science Engineering (2025)
+- 💻 Interested in Java, Python & Web Development
+- 🧠 Exploring Artificial Intelligence & Machine Learning
+- 🌱 Continuously learning and improving my skills
+- ✨ Building projects and growing as a developer
 
 <br clear="right"/>
 
 ---
 
-<!-- ========== TECH STACK ========== -->
-
-## 🛠️ Languages & Technologies
+## ⚡ Tech Stack
 
 <div align="center">
 
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,c,js" />
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode" />
 
 </div>
 
 ---
-
-<!-- ========== GITHUB STATS ========== -->
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShaikAsifa2612&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=8A2BE2&text_color=FFFFFF&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikAsifa2612&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FFFFFF" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikAsifa2612&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A2BE2&ring=C084FC&fire=FF6B6B&currStreakLabel=C084FC" width="70%"/>
-
-</div>
-
----
-
-<!-- ========== CONTRIBUTION GRAPH ========== -->
-
-## 📈 My Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaikAsifa2612&bg_color=0D1117&color=C084FC&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-<!-- ========== PROJECTS ========== -->
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/ShaikAsifa2612">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShaikAsifa2612&repo=Smart-Invoice-Analyzer&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://img.shields.io/badge/🧾_Smart_Invoice_Analyzer-1C1233?style=for-the-badge&logoColor=C4B5FD"/>
 </a>
+
+**AI-powered invoice analysis & fraud detection**
+
+Python · Streamlit · Machine Learning
+
+<br/>
 
 <a href="https://github.com/ShaikAsifa2612">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ShaikAsifa2612&repo=Wanderlust&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://img.shields.io/badge/🏡_Wanderlust-1C1233?style=for-the-badge&logoColor=C4B5FD"/>
 </a>
 
-</div>
+**MERN-based property listing platform**
 
-### 🧾 Smart Invoice Analyzer
-An AI-powered invoice analysis application featuring fraud detection, product insights, multilingual extraction, and invoice generation.
+MongoDB · Express · React · Node.js
 
-**Tech:** Python · Streamlit · Machine Learning · Gemini API
+<br/>
 
-### 🏡 Wanderlust
-A MERN stack property-listing platform with authentication, authorization, and property management features.
-
-**Tech:** MongoDB · Express.js · React · Node.js
-
-### 🤖 Desktop Virtual Assistant
-A Python-based virtual assistant that performs voice-controlled tasks and desktop automation.
-
-**Tech:** Python · Speech Recognition · Pyttsx3
-
-<div align="center">
-
-<a href="https://github.com/ShaikAsifa2612?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20All%20Repositories-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/ShaikAsifa2612">
+<img src="https://img.shields.io/badge/🤖_Desktop_Virtual_Assistant-1C1233?style=for-the-badge&logoColor=C4B5FD"/>
 </a>
+
+**Python voice assistant with desktop automation**
+
+Python · Speech Recognition
 
 </div>
 
 ---
 
-<!-- ========== CONNECT ========== -->
+## 📊 GitHub Analytics
 
-## 🤝 Let's Connect!
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShaikAsifa2612&show_icons=true&hide_border=true&bg_color=09090F&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikAsifa2612&layout=compact&hide_border=true&bg_color=09090F&title_color=A78BFA&text_color=E5E7EB"/>
+
+<br/>
+
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikAsifa2612&hide_border=true&background=09090F&stroke=6D28D9&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA"/>
+
+</div>
+
+---
+
+## 🌱 My Developer Journey
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎓_B.Tech_CSE-2025-1C1233?style=flat-square&labelColor=6D28D9"/>
+<img src="https://img.shields.io/badge/💻_Build_Projects-8B5CF6-1C1233?style=flat-square&labelColor=6D28D9"/>
+<img src="https://img.shields.io/badge/🧠_Explore_AI%2FML-A78BFA-1C1233?style=flat-square&labelColor=6D28D9"/>
+<img src="https://img.shields.io/badge/🚀_Keep_Growing-C4B5FD-1C1233?style=flat-square&labelColor=6D28D9"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://linkedin.com/in/sk-asifa-888a6322b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/ShaikAsifa2612">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-1C1233?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ========== FOOTER ========== -->
-
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"/>
 
-<br/>
+### ✨ "Learning, building, and growing one line of code at a time."
 
-### 💜 Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:5B247A,100:12002F&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:09090F&height=100&section=footer"/>
 
 </div>
