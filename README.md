@@ -1,5 +1,5 @@
 <!-- ===================== HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6366f1,100:06b6d4&height=240&section=header&text=Asifa%20Shaik&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Aspiring%20Software%20Engineer%20%7C%20Full%20Stack%20%26%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="dev-avatar.svg" width="100%" alt="header" />
 
 <h2 align="center">
   Hello Fellow &lt; Developers /&gt;
@@ -7,17 +7,13 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=B.Tech+CSE+Graduate+%F0%9F%8E%93;Full+Stack+Java+%26+React+Developer+%F0%9F%92%BB;Python+%2B+Machine+Learning+Enthusiast+%F0%9F%A4%96;Open+to+Software+Engineering+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=B.Tech+CSE+Graduate+%F0%9F%8E%93;Full+Stack+Python+%26+React+Developer+%F0%9F%92%BB;Python+%2B+Machine+Learning+Enthusiast+%F0%9F%A4%96;Open+to+Software+Engineering+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShaikAsifa2612&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/ShaikAsifa2612?label=Followers&style=for-the-badge&logo=github&color=06b6d4&labelColor=0D1117" alt="Followers" />
   <img src="https://img.shields.io/badge/Open%20To-Work-22c55e?style=for-the-badge&labelColor=0D1117" alt="Open to work" />
-</p>
-
-<p align="center">
-  <img src="assets/dev-avatar.svg" width="700" alt="Developer avatar with a laptop" />
 </p>
 
 ---
