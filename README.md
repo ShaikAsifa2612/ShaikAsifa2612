@@ -60,7 +60,7 @@ My goal is to build applications that solve real-world problems and make people'
 ## 🔍 Find Me Here
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sk-asifa-888a6322b">
+  <a href="https://www.linkedin.com/in/sk-asifa-888a6322b/   ">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/ShaikAsifa2612">
