@@ -21,57 +21,80 @@
 <!-- ===================== ABOUT ===================== -->
 ## 👽 About Me
 
-<table>
-<tr>
-<td width="62%">
+👋 A passionate Computer Science graduate and aspiring Full Stack developer on a mission to build clean, user-friendly web applications and to learn how AI/ML can make software smarter. My GitHub is where I keep my projects, assignments and experiments as I grow from strong fundamentals to complete full-stack solutions.
 
-- 🎓 **B.Tech in Computer Science Engineering** (2025 graduate)
-- 💼 Training in **Full Stack Java** and building with **HTML, CSS, JavaScript, React & Python**
-- 🤖 Pursuing **AI/ML** with an IIT Patna certification
-- 🌱 Currently learning **Flask**, **DSA** and **Full Stack Java**
-- 🎯 Goal: land a Software Engineer role, then grow into **AI/ML**
-- 📍 Based in **Hyderabad, India**
-- 🤝 Open to collaborating on web and ML projects
+Alongside development, I bring hands-on experience in **software testing** from my time at Endava, where I worked through the SDLC/STLC and wrote 25+ test cases. I care about quality as much as features.
 
-</td>
-<td width="38%" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding" />
+</p>
 
-![Typing](https://img.shields.io/badge/Lives%20in-Hyderabad-6366f1?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117)
+#### 💼 What I do
+- Build responsive, interactive front-end interfaces with **React.js** and **Tailwind CSS**
+- Craft web pages with **HTML, CSS and JavaScript**
+- Write programs in **Java** and **Python**, and I'm training in **Full Stack Java**
+- Design relational databases and write queries with **MySQL**
+- Train ML models with **Pandas, NumPy and scikit-learn**, and work on computer vision with **OpenCV**
+- Test software by writing clear, thorough **manual test cases**
+
+#### 🌱 Always learning
+I believe in steadily building skills every day. Right now I'm going deeper into **Full Stack Java**, **Flask**, **DSA** and **AI/ML** through my IIT Patna course. My next big project is a **Document Q&A (RAG)** app that summarises PDFs and answers questions about them.
+
+#### 🚀 Open to collaboration
+I'm open to collaborating on web development and machine learning projects. If you have an idea to discuss or want to work together, feel free to reach out!
+
+#### 💬 Let's connect
+I believe in sharing knowledge. Explore my repositories, share your thoughts, and let's exchange ideas with fellow developers.
+
+#### 🎯 Passionate about impact
+My goal is to build applications that solve real-world problems and make people's lives easier. With every line of code, I want to make a difference.
+
+**Happy coding and exploring! 🚀**
+
+![Lives in](https://img.shields.io/badge/Lives%20in-Hyderabad-6366f1?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117)
 ![Focus](https://img.shields.io/badge/Focus-Software%20Development-06b6d4?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117)
+
+---
+
+<!-- ===================== FIND ME HERE ===================== -->
+## 🔍 Find Me Here
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sk-asifa-888a6322b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ShaikAsifa2612">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 <!-- ===================== TECH SKILLS ===================== -->
 ## 🖱️ Tech Skills
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Frontend
+### Frontend Enchantments
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Database
+### Backend Wizardry
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI / ML
+### AI / ML Alchemy
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### Tools
+### Tool Mastery
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -142,31 +165,6 @@
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShaikAsifa2612&theme=github_dark&utcOffset=5" alt="Productive time" />
 </p>
 
----
-
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaikAsifa2612&bg_color=0D1117&color=22d3ee&line=6366f1&point=ffffff&area=true&area_color=6366f1&hide_border=true" alt="Contribution graph" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ShaikAsifa2612/ShaikAsifa2612/output/github-snake-dark.svg" />
-</p>
-
----
-
-<!-- ===================== TROPHIES ===================== -->
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShaikAsifa2612&theme=radical&margin-w=8&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
----
 
 <!-- ===================== QUOTE ===================== -->
 <p align="center">
@@ -176,14 +174,14 @@
 ---
 
 <!-- ===================== CONNECT ===================== -->
-## 🔍 Find Me Here
+## 😄 Can Connect With Me On
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sk-asifa-888a6322b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/ShaikAsifa2612">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
