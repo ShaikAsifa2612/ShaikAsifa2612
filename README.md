@@ -164,27 +164,6 @@ My goal is to build applications that solve real-world problems and make people'
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShaikAsifa2612&theme=github_dark&utcOffset=5" alt="Productive time" />
 </p>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaikAsifa2612&bg_color=0D1117&color=22d3ee&line=6366f1&point=ffffff&area=true&area_color=6366f1&hide_border=true" alt="Contribution graph" />
-</p>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ShaikAsifa2612/ShaikAsifa2612/output/github-snake-dark.svg" />
-</p>
-
----
-
-<!-- ===================== ACHIEVEMENTS ===================== -->
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShaikAsifa2612&theme=radical&margin-w=8&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
 ---
 
 <!-- ===================== QUOTE ===================== -->
