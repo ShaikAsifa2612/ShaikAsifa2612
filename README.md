@@ -16,6 +16,10 @@
   <img src="https://img.shields.io/badge/Open%20To-Work-22c55e?style=for-the-badge&labelColor=0D1117" alt="Open to work" />
 </p>
 
+<p align="center">
+  <img src="assets/dev-avatar.svg" width="700" alt="Developer avatar with a laptop" />
+</p>
+
 ---
 
 <!-- ===================== ABOUT ===================== -->
